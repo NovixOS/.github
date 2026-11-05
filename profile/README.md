@@ -31,7 +31,6 @@ Our personal-use operating systems focus on everyday users, while Novix Enterpri
 - **Personalization** — A consistent Novix identity with room for individual preferences.
 - **Cross-Device Ecosystem** — A connected brand across phones, tablets, PCs, and laptops.
 - **Enterprise Management** — Dedicated solutions for organizations that need managed devices.
-- **Grand Gaming Experience** — Dedicated and smooth performance for gaming.
 
 ## 🤝 Join the Development
 

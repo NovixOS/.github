@@ -1,4 +1,4 @@
-# 💜 Welcome to Novix Center
+# 💜 Welcome to the Novix Center github page!
 
 **One ecosystem. Every device. Endless possibilities.**
 

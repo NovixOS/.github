@@ -1,49 +1,46 @@
-# 🟣 Novix OS
+# 💜 Welcome to Novix Center
 
-### Your devices. Your experience. Your Novix.
+**One ecosystem. Every device. Endless possibilities.**
 
-**Novix** is an operating system ecosystem built around personal freedom, everyday use, and modern digital experiences. From smartphones and tablets to desktop PCs and laptops, Novix aims to provide a unified brand across the devices people use for entertainment, creativity, productivity, and daily life.
+Novix Center is the home of the Novix ecosystem — an independent technology project focused on developing operating systems, applications, developer tools, and services.
 
-## 🌌 The Novix Ecosystem
+Our goal is to build a connected ecosystem of software that gives users and developers new opportunities across multiple devices.
 
-### 📱 Novix Phone OS: $25
-An operating system experience for smartphones, designed for everyday use, entertainment, communication, and staying connected.
+## 🚀 The Novix Ecosystem
 
-### 📲 Novix Tablet OS: $50
-A tablet operating system focused on entertainment, creativity, browsing, and flexible everyday experiences.
+Novix is being developed across several platforms:
 
-### 💻 Novix Desktop OS: $100
-An operating system for desktop PCs and laptops, built around personal computing, gaming, productivity, creativity, and general use.
+### 💻 Novix Desktop OS
+An operating system designed for everyday PC and laptop use, productivity, entertainment, and more.
+
+### 📱 Novix Phone OS
+A mobile operating system designed to bring the Novix experience to smartphones.
+
+### 📲 Novix Tablet OS
+A tablet-focused operating system built for everyday use, entertainment, and productivity.
 
 ### 🏢 Novix Enterprise Managed OS
-A separate enterprise-focused offering designed for organizational device management, centralized administration, and managed device environments.
+A dedicated enterprise product line focused on managed devices and organizational environments.
 
-## ✨ Our Vision
+## 🧩 Applications & Software
 
-We believe operating systems should offer experiences that fit the people using them. Novix aims to bring together modern design, usability, personalization, and a recognizable identity across different device types.
+Through **NovixAPPS**, we're building an application ecosystem where developers can contribute software and make their applications available to Novix users.
 
-Our personal-use operating systems focus on everyday users, while Novix Enterprise Managed OS serves the distinct needs of organizations and administrators.
+We're working toward:
+- An official Novix App Store.
+- Support for third-party developers.
+- Official Novix applications and utilities.
+- Developer tools and resources.
 
-## 🚀 What We're Building Toward
+## 🤝 Join the Community
 
-- **Personal Computing** — Operating system experiences for everyday devices.
-- **Entertainment & Creativity** — Platforms for enjoying content, exploring interests, and creating.
-- **Personalization** — A consistent Novix identity with room for individual preferences.
-- **Cross-Device Ecosystem** — A connected brand across phones, tablets, PCs, and laptops.
-- **Enterprise Management** — Dedicated solutions for organizations that need managed devices.
-- **Grand Gaming Experience** — Dedicated and smooth performance for gaming.
+Novix is an evolving project, and we're always interested in connecting with developers, contributors, and people who share our vision.
 
-## 🤝 Join the Development
+Whether you're interested in operating system development, application development, design, documentation, or testing, there's room to contribute.
 
-We're interested in connecting with developers, designers, testers, and contributors who want to help shape the future of Novix.
 
-Explore our repositories, share ideas, report issues, and contribute to the development of the ecosystem.
+**Novix Center**
 
-## 💜 Our Mission
+*Build. Connect. Innovate.*
 
-To create a modern operating system ecosystem that serves everyday users and organizations through distinct products, thoughtful design, and useful technology.
-
----
-
-**Novix OS**  
-*Technology for your world.*
+© Novix Center. All rights reserved.

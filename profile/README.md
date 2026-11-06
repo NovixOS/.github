@@ -1,5 +1,11 @@
 # 💜 Welcome to the Novix Center github page!
 
+## 💵 Donations
+Below are the links to our donation pages.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/novixcenter)
+
+
 **One ecosystem. Every device. Endless possibilities.**
 
 Novix Center is the home of the Novix ecosystem — an independent technology project focused on developing operating systems, applications, developer tools, and services.
